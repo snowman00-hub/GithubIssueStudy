@@ -3,7 +3,7 @@ name: Feature 템플릿
 about: feature 템플릿
 title: "[Feature]"
 labels: enhancement
-assignees: snowman00-hub
+assignees: uihyun420, HTP31698, snowman00-hub
 
 ---
 
